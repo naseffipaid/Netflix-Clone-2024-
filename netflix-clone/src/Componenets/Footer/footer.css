@@ -29,14 +29,14 @@
 }
 .footer_data ul li{
    cursor: pointer; 
-   padding: 7px;
+   padding: 3px;
 }
 .service-code{
     display: flex;
     align-items: center;
     justify-content: center;
     border: #fff 1px solid;
-    width: 13%;
+    width: 15%;
     margin: 10px 0;
     cursor: pointer;
 }
