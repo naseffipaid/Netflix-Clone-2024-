@@ -10,3 +10,4 @@ import axios from "axios";
 //     baseURL: "https://api.themoviedb.org/3"  // Ensure this URL is correct and HTTPS
 // });
 // export default instance;
+// https://api.themoviedb.org/3/account/{account_id}

@@ -13,3 +13,5 @@ const requests = {
 };
 
 export default requests;
+
+// https://api.themoviedb.org/3/genre/movie/list?language=en'
